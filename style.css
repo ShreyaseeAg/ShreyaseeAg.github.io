@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+  background: #f9faff;
+  margin: 0;
+  color: #333;
+}
+
+header {
+  background: #003366;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #aad8ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  position: relative;
+}
+
+.feedback {
+  margin-top: 2em;
+  background: #e7f1ff;
+  padding: 1em;
+  border-left: 4px solid #0077cc;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+button {
+  background: #0077cc;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
